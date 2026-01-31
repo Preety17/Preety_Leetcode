@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
+| [2396-strictly-palindromic-number](https://github.com/Preety17/Preety_Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Math
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Preety17/Preety_Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Preety17/Preety_Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
