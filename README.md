@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Preety17/Preety_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Preety17/Preety_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Preety17/Preety_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Preety17/Preety_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Preety17/Preety_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Preety17/Preety_Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Preety17/Preety_Leetcode/tree/master/0014-longest-common-prefix) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Graph Theory
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Preety17/Preety_Leetcode/tree/master/0014-longest-common-prefix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Math
 |  |
