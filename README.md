@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Preety17/Preety_Leetcode/tree/master/0002-add-two-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/Preety17/Preety_Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Preety17/Preety_Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Preety17/Preety_Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
