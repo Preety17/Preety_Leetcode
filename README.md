@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Preety17/Preety_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Preety17/Preety_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Preety17/Preety_Leetcode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Preety17/Preety_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Preety17/Preety_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
