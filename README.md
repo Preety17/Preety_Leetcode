@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Preety17/Preety_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Preety17/Preety_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Preety17/Preety_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Preety17/Preety_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Preety17/Preety_Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Preety17/Preety_Leetcode/tree/master/0088-merge-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Preety17/Preety_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Preety17/Preety_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Preety17/Preety_Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Preety17/Preety_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
 | [2396-strictly-palindromic-number](https://github.com/Preety17/Preety_Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
