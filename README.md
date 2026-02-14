@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Preety17/Preety_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Preety17/Preety_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Preety17/Preety_Leetcode/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Preety17/Preety_Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Preety17/Preety_Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
@@ -152,8 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Preety17/Preety_Leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
