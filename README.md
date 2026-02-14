@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Preety17/Preety_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Preety17/Preety_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0087-scramble-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Preety17/Preety_Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Preety17/Preety_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Preety17/Preety_Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0087-scramble-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Graph Theory
