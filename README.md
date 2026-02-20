@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Preety17/Preety_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Preety17/Preety_Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Preety17/Preety_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0761-special-binary-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0761-special-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Preety17/Preety_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Preety17/Preety_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Preety17/Preety_Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0087-scramble-string) |
+| [0761-special-binary-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0761-special-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Graph Theory
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Preety17/Preety_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0761-special-binary-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Preety17/Preety_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
