@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0087-scramble-string) |
 | [0761-special-binary-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0761-special-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Preety17/Preety_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Graph Theory
