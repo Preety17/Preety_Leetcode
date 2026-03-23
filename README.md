@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Preety17/Preety_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Preety17/Preety_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preety17/Preety_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Preety17/Preety_Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Preety17/Preety_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0087-scramble-string) |
 | [0799-champagne-tower](https://github.com/Preety17/Preety_Leetcode/tree/master/0799-champagne-tower) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Preety17/Preety_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Preety17/Preety_Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Preety17/Preety_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preety17/Preety_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Preety17/Preety_Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Preety17/Preety_Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
