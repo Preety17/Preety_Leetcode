@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0087-scramble-string) |
 | [0761-special-binary-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0761-special-binary-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Preety17/Preety_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Preety17/Preety_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Preety17/Preety_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Preety17/Preety_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Preety17/Preety_Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Preety17/Preety_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1189-maximum-number-of-balloons](https://github.com/Preety17/Preety_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Preety17/Preety_Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Preety17/Preety_Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Preety17/Preety_Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Preety17/Preety_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
