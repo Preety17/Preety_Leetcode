@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Preety17/Preety_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Preety17/Preety_Leetcode/tree/master/0283-move-zeroes) |
+| [1288-remove-covered-intervals](https://github.com/Preety17/Preety_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Preety17/Preety_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preety17/Preety_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Preety17/Preety_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Preety17/Preety_Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Preety17/Preety_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0761-special-binary-string](https://github.com/Preety17/Preety_Leetcode/tree/master/0761-special-binary-string) |
+| [1288-remove-covered-intervals](https://github.com/Preety17/Preety_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Preety17/Preety_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Preety17/Preety_Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Preety17/Preety_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
