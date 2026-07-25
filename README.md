@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Preety17/Preety_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Preety17/Preety_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Preety17/Preety_Leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/Preety17/Preety_Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Preety17/Preety_Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Preety17/Preety_Leetcode/tree/master/0085-maximal-rectangle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Preety17/Preety_Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Preety17/Preety_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Preety17/Preety_Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Preety17/Preety_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Preety17/Preety_Leetcode/tree/master/0037-sudoku-solver) |
 | [1189-maximum-number-of-balloons](https://github.com/Preety17/Preety_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Preety17/Preety_Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Preety17/Preety_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Preety17/Preety_Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Preety17/Preety_Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Preety17/Preety_Leetcode/tree/master/0089-gray-code) |
 ## Stack
